@@ -129,9 +129,9 @@ Random Forest also performed extremely well, confirming that ensemble tree-based
 
 ---
 
-### MSE Comparison
+### Overall Model Comparison
 
-![MSE Comparison](figures/mse_comparison.png)
+![Overall Model Comparison](figures/overall_model_comparison.png)
 
 ## 📂 9. Sample Dataset Structure
 
