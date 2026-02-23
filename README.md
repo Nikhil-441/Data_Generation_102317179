@@ -125,7 +125,7 @@ Random Forest also performed extremely well, confirming that ensemble tree-based
 
 ### MAE Comparison
 
-![MAE Comparison](figures/mae_comparison (1).png)
+![MAE Comparison](figures/mae_comparison(1).png)
 
 ---
 
